@@ -20,7 +20,6 @@ const InputTodo = ({ addTodoItem }) => {
       setMessage('');
     } else {
       setMessage('Please add item.');
-      alert('Please add item');
     }
   };
 

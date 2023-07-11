@@ -22,7 +22,6 @@ const TodosLogic = () => {
     },
   ]);
 
-  
   // handle to-do complete status
 
   const handleChange = (id) => {
